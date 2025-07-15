@@ -1,6 +1,6 @@
 # Creating a Personal AI Assistant with LangChain, Pinecone, and Next.js
 
-Read the full article [here]().
+Read the full article [here](https://www.djamware.com/post/6875b2b600a0506b9355826c/creating-a-personal-ai-assistant-with-langchain-pinecone-and-nextjs).
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
